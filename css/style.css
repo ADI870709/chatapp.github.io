@@ -1,0 +1,70 @@
+.logo{
+    display: block;
+    margin:auto;
+    width: 50px;
+    height: 50px;
+}
+
+.container{
+    max-width: 955px;
+    background-color: rgb(168, 103, 233);
+    margin: auto;
+    height: 60vh;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+}
+
+.message{
+    background-color: gainsboro;
+    width: 24%;
+    padding: 10px;
+    margin: 17px 12px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.left{
+    float: left;
+    clear: both;
+}
+    
+
+
+
+.right{
+    float: right;
+    clear: both;
+}
+
+#send-container{
+    text-align: center;
+    margin: auto;
+    display: block;
+    max-width: 985px;
+    width: 100%;
+}
+#messageInp{
+    width: 92%;
+    border:2px solid black;
+    border-radius: 15px;
+    height: 30px;
+}
+.btn{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 7px;
+    height: 30px;
+
+}
+
+
+
+
+
+
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(207, 24, 24),rgb(10, 2, 26));
+}  
+
+    
